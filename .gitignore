@@ -1,0 +1,11 @@
+# Ignore a single secret file
+config.txt
+
+# Ignore an entire folder of temporary code
+/node_modules/
+
+# Ignore any file that ends with .log (error logs)
+*.log
+
+# Ignore hidden Mac system files
+.DS_Store
